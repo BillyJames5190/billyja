@@ -1,0 +1,35 @@
+*{
+    margin : 2;
+    padding : 0;
+}
+fieldset{
+    width : 80%;
+    background-image: "minato.jpg";
+}
+table{
+    width : 100%;
+}
+button{
+    background-color: red;
+    border-radius: 20%;
+    color: black;
+    box-shadow: inset;
+    font-size: 150%;
+}
+.topics{
+    font-size: 200% ;
+    color : green;
+    background-color: blue;
+}
+th.topics{
+    background-color: blueviolet;
+}
+body {
+    background-size: 100%;
+}
+p{
+    color: royalblue;
+}
+td{
+    color: royalblue;
+}
